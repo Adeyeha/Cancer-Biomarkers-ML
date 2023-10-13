@@ -92,15 +92,11 @@ The Jupyter notebooks in this repository demonstrates the process of identifying
 
 This repository contains a series of Jupyter notebooks demonstrating the process of identifying critical biomarkers for cancer diagnosis using machine learning techniques. The notebooks cover various stages, including data preprocessing, feature selection, model training, and evaluation.
 
----
-
 ### Experiment 1: Baseline Models
 
 - **Description:** This notebook delves into the dataset, conducts data cleaning, and visualizes key insights using Matplotlib and Seaborn. It establishes baseline models on the processed dataset, which serve as benchmarks for subsequent experiments.
 
 - **Link:** [Notebook 1 - Baseline Models](https://github.com/Adeyeha/Cancer-Biomarkers-ML/blob/master/Baseline%20Models.ipynb)
-
----
 
 ### Experiment 2: Filter Methods
 
@@ -108,15 +104,11 @@ This repository contains a series of Jupyter notebooks demonstrating the process
 
 - **Link:** [Notebook 2 - Filter Methods](https://github.com/Adeyeha/Cancer-Biomarkers-ML/blob/master/Filter%20Methods.ipynb)
 
----
-
 ### Experiment 3: Wrapper Methods
 
 - **Description:** This notebook focuses on the practical application of feature selection using wrapper methods. It assesses the performance of these methods relative to the baseline.
 
 - **Link:** [Notebook 3 - Wrapper Methods](https://github.com/Adeyeha/Cancer-Biomarkers-ML/blob/master/Wrapper%20Methods.ipynb)
-
----
 
 ### Experiment 4: Embedded Methods
 
@@ -124,15 +116,11 @@ This repository contains a series of Jupyter notebooks demonstrating the process
 
 - **Link:** [Notebook 4 - Embedded Methods](https://github.com/Adeyeha/Cancer-Biomarkers-ML/blob/master/Embedded%20Methods.ipynb)
 
----
-
 ### Experiment 5: Sequential Feature Selection
 
 - **Description:** This notebook showcases the implementation of Sequential Feature Selection.
 
 - **Link:** [Notebook 5 - Sequential Feature Selection](https://github.com/Adeyeha/Cancer-Biomarkers-ML/blob/master/%20Sequential%20Feature%20Selection.ipynb)
-
----
 
 ### Experiment 6: RFE-Stability Selection
 
@@ -140,7 +128,6 @@ This repository contains a series of Jupyter notebooks demonstrating the process
 
 - **Link:** [Notebook 6 - RFE-Stability Selection](https://github.com/Adeyeha/Cancer-Biomarkers-ML/blob/master/RFE-Stability%20Selection.ipynb)
 
----
 
 ### Notebooks 7 & 8: Final Analysis & Output
 
@@ -148,8 +135,6 @@ This repository contains a series of Jupyter notebooks demonstrating the process
 
 - **Link:** [Notebook 7 - Final Analysis](https://github.com/Adeyeha/Cancer-Biomarkers-ML/blob/master/Final%20Analysis.ipynb)
 - **Link:** [Notebook 8 - Final Output](https://github.com/Adeyeha/Cancer-Biomarkers-ML/blob/master/Final%20Output.ipynb)
-
----
 
 ### License
 MIT
