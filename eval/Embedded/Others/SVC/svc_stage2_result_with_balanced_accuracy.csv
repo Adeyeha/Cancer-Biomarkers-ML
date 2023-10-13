@@ -1,0 +1,7 @@
+Metric,Value
+Stage One (No of Cols),21
+Stage One (balanced_accuracy),0.9875
+Stage One (Columns),"['CDR2', 'DDX51', 'FDH', 'HEXIM1', 'KIAA1324L', 'LOC101060247', 'LOC101060339', 'LOC90784', 'Label', 'MRPL42P5', 'OR52I1', 'PKDREJ', 'POU1F1', 'PRIMPOL', 'SHC4', 'STON1-GTF2A1L', 'TREML4', 'TUBB8', 'ZFP64', 'ZNF65', 'ZNF702P']"
+Stage Two (No of Cols),9
+Stage Two (balanced_accuracy),0.9875
+Stage Two (Columns),"['DDX51', 'FDH', 'HEXIM1', 'LOC101060247', 'LOC90784', 'PKDREJ', 'STON1-GTF2A1L', 'TREML4', 'ZFP64']"

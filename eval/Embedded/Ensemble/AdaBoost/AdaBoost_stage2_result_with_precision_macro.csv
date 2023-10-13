@@ -1,0 +1,7 @@
+Metric,Value
+Stage One (No of Cols),35
+Stage One (precision_macro),0.8307284804567413
+Stage One (Columns),"['AMACR', 'ANAPC2', 'CCL3L1', 'CMT2B1', 'DDX51', 'DHX40P', 'DKFZP434N231', 'FAM192A', 'IBSP', 'ICMT', 'ITGB1BP2', 'KBF2', 'LIMK1', 'LINC00965', 'LOC101060339', 'LOC152084', 'LOC649250', 'LOC654093', 'LOC90784', 'Label', 'MAP7D1', 'METTL2A', 'MGC22265', 'MGC23947', 'MPI', 'NEURL4', 'NFATC3', 'NUMBL', 'OGFOD2', 'PWP2', 'SERPINC1', 'SH3D20369', 'TREML4', 'TYSND1', 'ZNF702P']"
+Stage Two (No of Cols),5
+Stage Two (precision_macro),0.9649177814938685
+Stage Two (Columns),"['FAM192A', 'LOC649250', 'LOC90784', 'MGC23947', 'NFATC3']"

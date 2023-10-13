@@ -1,0 +1,10 @@
+,Model Name,Accuracy,Features
+0,Logistic Regression,0.6139705882352942,"Index(['TIMM23', 'RNU12-2P', 'HSPB1P1', 'AKAP14', 'LOC286073', 'LOC154309',
+       'PDRC1', 'DAOA', 'GUSBP1', 'LRFN4'],
+      dtype='object')"
+1,Support Vector Machine,0.6861111111111111,"Index(['ACOX3', 'ALS2CL', 'ANKRD20B', 'LOC100506900', 'TEX40', 'C17ORF97',
+       'TIMMDC1', 'KRTAP10-11', 'UQCRBP1', 'OR2B9'],
+      dtype='object')"
+2,Random Forest,1.0,"Index(['Label', 'SRP14P1', 'AATF', 'ACLY', 'ASB16-AS1', 'FAM19A5', 'FMNL3',
+       'AOC4P', 'FLJ22218', 'SLC18A3'],
+      dtype='object')"

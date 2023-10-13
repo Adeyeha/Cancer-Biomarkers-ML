@@ -1,0 +1,7 @@
+Metric,Value
+Stage One (No of Cols),30
+Stage One (f1_macro),0.8086857459855171
+Stage One (Columns),"['APLNR', 'ARHGEF1', 'C1D', 'C21ORF2', 'CCDC64B', 'CRV', 'DAPK3', 'DKFZp434H244', 'DOHH', 'DPH7', 'EGFLAM', 'FJX1', 'GTSE1-AS1', 'HDAC10', 'INPP1', 'LOC112491', 'LOC221364', 'LRRC37A', 'Label', 'MEGF11', 'MGC22265', 'NEURL4', 'NSX', 'PRKY', 'RADIL', 'RPS26', 'SYNGAP1', 'TSKS', 'UPP1', 'ZGPAT']"
+Stage Two (No of Cols),6
+Stage Two (f1_macro),0.8457918050941307
+Stage Two (Columns),"['DAPK3', 'DPH7', 'FJX1', 'LOC112491', 'MGC22265', 'RADIL']"

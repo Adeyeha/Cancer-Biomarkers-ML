@@ -1,0 +1,7 @@
+Metric,Value
+Stage One (No of Cols),21
+Stage One (precision_macro),1.0
+Stage One (Columns),"['CENPU', 'DDX51', 'ELMO3', 'KBF2', 'KIAA1324L', 'LOC101060339', 'LOC155153', 'LOC649506', 'LOC90784', 'Label', 'MGC22265', 'MRXE', 'PDPN', 'PGLYRP1', 'PWP2', 'RNF112', 'SAXO1', 'STON1-GTF2A1L', 'TREML4', 'TUBB8', 'ZNF702P']"
+Stage Two (No of Cols),8
+Stage Two (precision_macro),0.9945652173913043
+Stage Two (Columns),"['ELMO3', 'KBF2', 'LOC101060339', 'LOC90784', 'MGC22265', 'PDPN', 'PGLYRP1', 'PWP2']"

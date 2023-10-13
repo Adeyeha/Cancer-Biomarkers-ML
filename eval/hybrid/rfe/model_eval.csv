@@ -1,0 +1,4 @@
+,Model Name,Accuracy,Features
+0,Logistic Regression,0.4080882352941176,"Index(['PDRC1', 'UQCRBP1', 'AOC4P'], dtype='object')"
+1,Support Vector Machine,0.48611111111111105,"Index(['PDRC1', 'AOC4P'], dtype='object')"
+2,Random Forest,0.6651143790849673,"Index(['TTC29', 'DKFZP564G196', 'TUBB6', 'PLEKHD1'], dtype='object')"

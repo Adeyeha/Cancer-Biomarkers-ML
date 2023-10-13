@@ -1,0 +1,7 @@
+Metric,Value
+Stage One (No of Cols),19
+Stage One (balanced_accuracy),0.7838203463203464
+Stage One (Columns),"['ABTB1', 'ANKMY1', 'CCDC64B', 'CDK5RAP3', 'EIF4G2', 'FLJ20005', 'HOOK2', 'KLHL17', 'LOC112491', 'LOC729976', 'Label', 'MFSD6', 'MGC4322', 'OVD1A', 'PRKY', 'RADIL', 'TCIRG1', 'TREML4', 'XRCC6P5']"
+Stage Two (No of Cols),9
+Stage Two (balanced_accuracy),0.9090909090909091
+Stage Two (Columns),"['ABTB1', 'FLJ20005', 'HOOK2', 'MFSD6', 'OVD1A', 'PRKY', 'RADIL', 'TREML4', 'XRCC6P5']"
